@@ -1,1 +1,1 @@
-Hai.. Pertamax turbo Didmo masssa
+Chip Baru AMD Q3 2022
