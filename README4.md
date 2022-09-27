@@ -1,1 +1,6 @@
 Chip Baru AMD Q3 2022
+
+AMD RYZEN 9 7950x 5.7Ghz Boost
+AMD RYZEN 9 7900x 5.6Ghz Boost
+AMD RYZEN 9 7800x 5.5Ghz Boost
+AMD RYZEN 9 7600x 5.4Ghz Boost
